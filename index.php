@@ -1,5 +1,7 @@
 <? php 
 
-echo "Ola Mundo!"
+echo "Ola Planeta Terra!"
+
+echo "Sejam bem vindos!"
 
 ?>
